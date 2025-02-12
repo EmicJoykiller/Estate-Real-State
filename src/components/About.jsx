@@ -51,9 +51,11 @@ const About = () => {
             realities. From concept to completion, we bring passion, precision,
             and purpose to every project.
           </p>
+          <a href="#Contact">
           <button className="bg-blue-600 text-white px-8 py-2 rounded">
             Learn More
           </button>
+          </a>
         </div>
       </div>
     </motion.div>
